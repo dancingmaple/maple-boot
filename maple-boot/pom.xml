@@ -14,7 +14,7 @@
     <description>精简管理系统</description>
 
     <properties>
-        <boot.version>2.1.1.RELEASE</boot.version>
+        <boot.version>2.5.12</boot.version>
         <maple.version>1.0</maple.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
